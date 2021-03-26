@@ -5,6 +5,7 @@ In computer science,
    undefined, null, boolean, string, symbol, bigint, number, and object.*/
 
    var ourName;
-   let name = 'Imants';
+   
    const age = 24;
-//    console.log(name);
+   
+   console.log('Hello World');

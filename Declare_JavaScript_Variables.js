@@ -7,3 +7,4 @@ In computer science,
    var ourName;
    let name = 'Imants';
    const age = 24;
+//    console.log(name);
